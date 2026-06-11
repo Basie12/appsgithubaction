@@ -26,4 +26,4 @@ jobs:
 
       - name: Run tests
         run: |
-          pytest test_math_operation.py
+          pytest test_operation.py.py
